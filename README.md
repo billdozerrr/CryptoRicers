@@ -36,7 +36,7 @@ Racetracks will be designed to be more or less fit for specific attributes. Ther
 
 Reach the team
 
-Twitter: @cryptoricers
+Twitter: https://twitter.com/cryptoricers
 
 Email: cryptoricers@gmail.com
 
