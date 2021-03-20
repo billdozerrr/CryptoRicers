@@ -14,11 +14,11 @@ In future Phases, the Crypto Ricer team will issue additional customizations use
 
 ## Ricer Design
 
-Ricers’ designs are based on the aesthetic recently published by the failed Indie video game Kickstarter campaign Drift Stage. Customizable features include: engine and body modifications, paint jobs, decals, tires, mufflers/exhaust, stance (wheel spacing), and more. 
+Ricers’ designs are based on the aesthetic recently published by the failed Indie video game Kickstarter campaign Drift Stage. Customizable features include: model, spoiler, paint color, decal, rims, and underglow. Additional customizations will be made available at a later date.
 
 ## Attributes
 
-Ricer attributes will include: speed, torque, agility, drift, durability, noise, and popularity. Most attributes are self-explanatory. Popularity is measured by how excited the racetrack crowd is to see you race. The higher the popularity, the louder the crowd will cheer for the Ricer. 
+Ricer attributes will include: speed, burst, drift, stability, aerodynamics, and flair. Most attributes are self-explanatory. Flair, however, is measured by how excited the racetrack crowd is to see you race. The higher the flair, the louder the crowd will cheer for the Ricer. 
 
 ## Racetracks
 
