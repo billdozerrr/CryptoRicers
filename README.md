@@ -14,7 +14,7 @@ In future Phases, the Crypto Ricer team will issue additional customizations use
 
 ## Ricer Design
 
-Ricers’ designs are based on the aesthetic recently published by the failed Indie video game Kickstarter campaign Drift Stage (see Pages 2-3 for examples). Customizable features include: engine and body modifications, paint jobs, decals, tires, mufflers/exhaust, stance (wheel spacing), and more. 
+Ricers’ designs are based on the aesthetic recently published by the failed Indie video game Kickstarter campaign Drift Stage. Customizable features include: engine and body modifications, paint jobs, decals, tires, mufflers/exhaust, stance (wheel spacing), and more. 
 
 ## Attributes
 
